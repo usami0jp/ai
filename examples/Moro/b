@@ -1,0 +1,1 @@
+exiftool -XResolution=72 -YResolution=72 e1.png
