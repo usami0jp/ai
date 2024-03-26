@@ -1,0 +1,5 @@
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+<grounding> An image of<phrase> a man</phrase><object><patch_index_0167><patch_index_0943></object> playing<phrase> the piano</phrase><object><patch_index_0332><patch_index_0918></object> and<phrase> a woman</phrase><object><patch_index_0011><patch_index_0463></object> standing behind him.
+An image of a man playing the piano and a woman standing behind him.
+[('a man', (12, 17), [(0.234375, 0.171875, 0.484375, 0.921875)]), ('the piano', (26, 35), [(0.390625, 0.328125, 0.703125, 0.890625)]), ('a woman', (40, 47), [(0.359375, 0.015625, 0.484375, 0.453125)])]
+
