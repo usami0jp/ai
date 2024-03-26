@@ -1,0 +1,10 @@
+#mv *.mp3 old2/.
+#mv *.wav old2/.
+#rm ./examples/*.wav
+rm answer.wav answer2.wav 
+rm examples/answer.wav
+
+python a.py 
+#python aa.py 
+#python t2.py
+

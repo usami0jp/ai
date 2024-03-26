@@ -1,0 +1,63 @@
+# シェル tmp で y  -> yahoo.py が動く port16
+# シェル mak3 で b  -> b.py  アニメーションお
+# シェル mak3 で a -> a.py ボイス認識
+# シェル mak3 で r -> r.py  信号のやりとり
+# シェル camera  で c  -> camera.py
+# hostのIPを合わせる:
+
+
+sudo apt install python3-pygame
+pip install pygame のときもある
+
+
+https://t-salad.com/socket-error/
+
+
+requirements.txtに出力するときに使うと便利
+$ pip freeze > requirements.txt
+
+
+lsof -i :50001
+
+kill プロセス
+
+lsof
+このコマンド使って解決した
+
+プロセスが開いているファイルを表示するコマンドです
+
+How to use
+ポート番号は8000で起動しているはずなので、
+
+$ lsof -i :8000
+で、プロセスIDがわかったので、
+
+$ kill <プロセスID>
+
+
+
+
+
+
+
+2024. 1.4  c でうまくいった
+pink floyd がなぜか link floyd になってしまう。
+ソケットプログラムと合体させる
+
+
+%s/#.*
+
+v/\S/d
+
+
+ｃを実行QAがウエイティング
+ｂを実行アニメーションが実行
+最後にaを実行　ここが入力部
+
+transformer 3.0 で動かすこと 4.35.2 でもよい
+
+thirdparty/AdaaptiveWingLoss/utils に cv2で顔の部分をとるプログラムがある
+
+
+t2.py で　answer.wavを上映
+a22.py で単独PC python a22.py で文字列をwav化
