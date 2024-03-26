@@ -1,0 +1,46 @@
+abc を含む行を削除する
+
+:g/abc/d
+
+
+
+yahoo5d  うまくうごかない:
+
+kk
+d で　d.py が起動　ー＞ t.py （yahooが動く)
+
+==================================-
+import socket
+HOST='127.0.0.1'
+PORT9=50009
+
+s9= socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+s9.bind((HOST, PORT9))
+s9.listen(1)
+
+def socket_work():
+
+    print('------- In socket work---------- ')
+    while True:
+        conn, addr = s9.accept()
+        print( 'Connected by', addr)
+        data = conn.recv(1024)
+        question=data.decode()
+        print(f"Question: {question}")
+
+socket_work()
+
+'''
+        s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        s.connect((HOST, PORT))
+        s.send(hello.encode())
+'''
+
+
+
+
+pip install newspaper3k
+
+old2/t.py が完成型
+
+old2/t2.py 	がファインチューニング用  

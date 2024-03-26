@@ -1,0 +1,591 @@
+0,0,0, 0, 固有名詞, 11 ,Noto, Peninsula, Rei, Noto, Peninsula, Ishikawa, Prefecture, Wajima, City, Yoshin, Okamo,0.9191055
+0,0,1, 1, 固有名詞, 4 ,Wajima, City, Yoshinori, Okamo,0.7984215
+0,0,2, 2, 固有名詞, 2 ,Yoshinori, Okamo,0.9054471
+0,0,3, 3, 固有名詞, 1 ,Okamo,0.52449405
+0,0,4, 4, 固有名詞, 3 ,Okamo, San, Diego,0.86027205
+0,0,5, 5, 固有名詞, 0 ,,0.8212278
+0,0,6, 6, 固有名詞, 1 ,Illinois,0.27734247
+0,0,7, 7, 固有名詞, 2 ,Illinois, Illinois,0.64066344
+0,0,8, 8, 固有名詞, 1 ,Poland,0.87649214
+0,0,9, 9, 固有名詞, 2 ,Poland, Polish,0.34821594
+0,0,10, 10, 固有名詞, 2 ,Polish, Danish,0.68327916
+0,0,11, 11, 固有名詞, 0 ,,0.26647413
+0,0,0, 0, 固有名詞, 14 ,Liberal, Democratic, Party, LDP, Liberal, Democratic, Party, LDP, Political, Reform, Headquarters, Liberal, Democratic, Party,0.93200886
+0,0,1, 1, 固有名詞, 9 ,Political, Reform, Headquarters, Liberal, Democratic, Party, National, Committee, Assembly,0.77167666
+0,0,2, 2, 固有名詞, 4 ,National, Committee, Assembly, Council,0.79764944
+0,0,3, 3, 固有名詞, 5 ,National, Committee, Assembly, Council, Union,0.60062766
+0,0,4, 4, 固有名詞, 18 ,National, The, National, Association, for, Civil, Legal, Action, Faces, to, Civil, Rights, Act, Faces, to, Civil, Rights, Act,0.90428716
+0,0,5, 5, 固有名詞, 5 ,Faces, to, Civil, Rights, Act,0.88966286
+0,0,0, 0, 固有名詞, 14 ,Liberal, Democratic, Party, LDP, Liberal, Democratic, Party, LDP, Political, Reform, Headquarters, Liberal, Democratic, Party,0.9264072
+0,0,1, 1, 固有名詞, 9 ,Political, Reform, Headquarters, Liberal, Democratic, Party, National, Committee, Assembly,0.77167666
+0,0,2, 2, 固有名詞, 4 ,National, Committee, Assembly, Council,0.79764944
+0,0,3, 3, 固有名詞, 5 ,National, Committee, Assembly, Council, Union,0.60062766
+0,0,0, 0, 固有名詞, 18 ,Liberal, Democratic, Party, LDP, Seiwa, Policy, Study, Group, Abe, Liberal, Democratic, Party, Shishokai, Nikai, Fumio, Kishida, Kochikai, Kishida,0.9603356
+0,0,1, 1, 固有名詞, 9 ,Liberal, Democratic, Party, Shishokai, Nikai, Fumio, Kishida, Kochikai, Kishida,0.949493
+0,0,2, 2, 固有名詞, 6 ,Shishokai, Nikai, Fumio, Kishida, Kochikai, Kishida,0.950701
+0,0,3, 3, 固有名詞, 4 ,Fumio, Kishida, Kochikai, Kishida,0.24911717
+0,0,0, 0, 固有名詞, 18 ,Liberal, Democratic, Party, LDP, Seiwa, Policy, Study, Group, Abe, Liberal, Democratic, Party, Shishokai, Nikai, Fumio, Kishida, Kochikai, Kishida,0.9540094
+0,0,1, 1, 固有名詞, 6 ,Shishokai, Nikai, Fumio, Kishida, Kochikai, Kishida,0.95369476
+0,0,2, 2, 固有名詞, 6 ,Shishokai, Nikai, Fumio, Kishida, Kochikai, Kishida,0.9485774
+0,0,3, 3, 固有名詞, 4 ,Kishida, Kochikai, Kishida, Kishida,0.67467976
+0,0,4, 4, 固有名詞, 14 ,Kishida, Democratic, Party, of, Japan, United, Kingdom, Jack, Straw, Democratic, Party, of, Japan, DPJ,0.7925642
+0,0,5, 5, 固有名詞, 11 ,United, Kingdom, Jack, Straw, Democratic, Party, of, Japan, DPJ, Elect, Japanese,0.9118185
+0,0,6, 6, 固有名詞, 5 ,Japan, DPJ, Elect, Japanese, Trump,0.55849767
+0,0,7, 7, 固有名詞, 2 ,Japan, Japan,0.8736624
+0,0,8, 8, 固有名詞, 1 ,Abraham,0.824607
+0,0,9, 9, 固有名詞, 3 ,Abraham, Sodom, Abraham,0.49651465
+0,0,10, 10, 固有名詞, 9 ,Abraham, Lincoln, American, South, Carolina, Massachusetts, Lincoln, Columbus, Ohio,0.79934275
+0,0,11, 11, 固有名詞, 8 ,South, Carolina, Massachusetts, Lincoln, Columbus, Ohio, Lincoln, Christian,0.88153434
+0,0,12, 12, 固有名詞, 4 ,Columbus, Ohio, Lincoln, Christian,0.44763303
+0,0,13, 13, 固有名詞, 2 ,Lincoln, College,0.781214
+0,0,14, 14, 固有名詞, 0 ,,0.7430241
+0,0,15, 15, 固有名詞, 0 ,,0.7908117
+0,0,16, 16, 固有名詞, 1 ,Kerry,0.88644266
+0,0,17, 17, 固有名詞, 1 ,Kerry,0.8867463
+0,0,18, 18, 固有名詞, 3 ,Kerry, All, In,0.5686734
+0,0,19, 19, 固有名詞, 8 ,Kerry, Kerry, UFC, on, Fox, 7, Ronda, Rousey,0.91333616
+0,0,20, 20, 固有名詞, 8 ,Kerry, UFC, on, Fox, 7, Ronda, Rousey, Ron,0.8965851
+0,0,21, 21, 固有名詞, 1 ,Ron,0.43594056
+0,0,22, 22, 固有名詞, 7 ,Ron, United, Nations, Ukraine, Russia, Russia, Putin,0.8629926
+0,0,23, 23, 固有名詞, 7 ,Ukraine, Russia, Russia, Putin, Ukraine, Russia, Putin,0.94205797
+0,0,24, 24, 固有名詞, 6 ,Russia, Putin, Ukraine, Russia, Putin, Russia,0.39647385
+0,0,25, 25, 固有名詞, 3 ,Putin, Evan, Wilson,0.46271044
+0,0,0, 0, 固有名詞, 18 ,Liberal, Democratic, Party, LDP, Seiwa, Policy, Study, Group, Abe, Liberal, Democratic, Party, Shishokai, Nikai, Fumio, Kishida, Kochikai, Kishida,0.9540094
+0,0,1, 1, 固有名詞, 6 ,Shishokai, Nikai, Fumio, Kishida, Kochikai, Kishida,0.95369476
+0,0,2, 2, 固有名詞, 6 ,Shishokai, Nikai, Fumio, Kishida, Kochikai, Kishida,0.9485774
+0,0,3, 3, 固有名詞, 4 ,Kishida, Kochikai, Kishida, Kishida,0.67467976
+0,0,4, 4, 固有名詞, 14 ,Kishida, Democratic, Party, of, Japan, United, Kingdom, Jack, Straw, Democratic, Party, of, Japan, DPJ,0.7925642
+0,0,5, 5, 固有名詞, 11 ,United, Kingdom, Jack, Straw, Democratic, Party, of, Japan, DPJ, Elect, Japanese,0.9118185
+0,0,6, 6, 固有名詞, 5 ,Japan, DPJ, Elect, Japanese, Trump,0.55849767
+0,0,7, 7, 固有名詞, 2 ,Japan, Japan,0.8736624
+0,0,8, 8, 固有名詞, 1 ,Abraham,0.824607
+0,0,9, 9, 固有名詞, 3 ,Abraham, Sodom, Abraham,0.49651465
+0,0,10, 10, 固有名詞, 9 ,Abraham, Lincoln, American, South, Carolina, Massachusetts, Lincoln, Columbus, Ohio,0.79934275
+0,0,11, 11, 固有名詞, 8 ,South, Carolina, Massachusetts, Lincoln, Columbus, Ohio, Lincoln, Christian,0.88153434
+0,0,12, 12, 固有名詞, 4 ,Columbus, Ohio, Lincoln, Christian,0.44763303
+0,0,13, 13, 固有名詞, 2 ,Lincoln, College,0.781214
+0,0,14, 14, 固有名詞, 0 ,,0.7430241
+0,0,15, 15, 固有名詞, 0 ,,0.7908117
+0,0,16, 16, 固有名詞, 1 ,Kerry,0.88644266
+0,0,17, 17, 固有名詞, 1 ,Kerry,0.8867463
+0,0,18, 18, 固有名詞, 3 ,Kerry, All, In,0.5686734
+0,0,19, 19, 固有名詞, 8 ,Kerry, Kerry, UFC, on, Fox, 7, Ronda, Rousey,0.91333616
+0,0,20, 20, 固有名詞, 8 ,Kerry, UFC, on, Fox, 7, Ronda, Rousey, Ron,0.8965851
+0,0,21, 21, 固有名詞, 1 ,Ron,0.43594056
+0,0,22, 22, 固有名詞, 7 ,Ron, United, Nations, Ukraine, Russia, Russia, Putin,0.8629926
+0,0,23, 23, 固有名詞, 7 ,Ukraine, Russia, Russia, Putin, Ukraine, Russia, Putin,0.94205797
+0,0,24, 24, 固有名詞, 6 ,Russia, Putin, Ukraine, Russia, Putin, Russia,0.39647385
+0,0,25, 25, 固有名詞, 3 ,Putin, Evan, Wilson,0.46271044
+0,0,26, 26, 固有名詞, 6 ,American, Health, Care, Act, House, Republicans,0.39676094
+0,0,27, 27, 固有名詞, 14 ,CNN, Russia, U, ., S, ., Russian, U, ., S, ., Vladimir, Putin, Obama,0.70001346
+0,0,28, 28, 固有名詞, 6 ,Vladimir, Putin, Kremlin, Russian, Russian, Americans,0.8527069
+0,0,29, 29, 固有名詞, 9 ,Kremlin, Russian, Russian, Americans, Russian, U, ., S, .,0.8982842
+0,1,0, 30, 固有名詞, 4 ,Noto, Peninsula, Reiwa, SNS,0.8882115
+0,1,1, 31, 固有名詞, 1 ,SNS,0.92146856
+0,1,2, 32, 固有名詞, 0 ,,0.8690032
+0,1,3, 33, 固有名詞, 0 ,,0.905113
+0,1,4, 34, 固有名詞, 0 ,,0.78281164
+0,1,5, 35, 固有名詞, 0 ,,0.89461565
+0,0,0, 0, 固有名詞, 18 ,Liberal, Democratic, Party, LDP, Seiwa, Policy, Study, Group, Abe, Liberal, Democratic, Party, Shishokai, Nikai, Fumio, Kishida, Kochikai, Kishida,0.9536933
+0,0,1, 1, 固有名詞, 6 ,Shishokai, Nikai, Fumio, Kishida, Kochikai, Kishida,0.95369476
+0,0,2, 2, 固有名詞, 6 ,Shishokai, Nikai, Fumio, Kishida, Kochikai, Kishida,0.9485774
+0,0,3, 3, 固有名詞, 4 ,Kishida, Kochikai, Kishida, Kishida,0.67467976
+0,0,4, 4, 固有名詞, 14 ,Kishida, Democratic, Party, of, Japan, United, Kingdom, Jack, Straw, Democratic, Party, of, Japan, DPJ,0.7925642
+0,0,5, 5, 固有名詞, 11 ,United, Kingdom, Jack, Straw, Democratic, Party, of, Japan, DPJ, Elect, Japanese,0.9118185
+0,0,6, 6, 固有名詞, 5 ,Japan, DPJ, Elect, Japanese, Trump,0.55849767
+0,0,7, 7, 固有名詞, 2 ,Japan, Japan,0.8736624
+0,0,8, 8, 固有名詞, 1 ,Abraham,0.824607
+0,0,9, 9, 固有名詞, 3 ,Abraham, Sodom, Abraham,0.49651465
+0,0,10, 10, 固有名詞, 9 ,Abraham, Lincoln, American, South, Carolina, Massachusetts, Lincoln, Columbus, Ohio,0.79934275
+0,0,11, 11, 固有名詞, 8 ,South, Carolina, Massachusetts, Lincoln, Columbus, Ohio, Lincoln, Christian,0.88153434
+0,0,0, 0, 固有名詞, 0 ,,0.8340984
+0,0,1, 1, 固有名詞, 0 ,,0.64548683
+0,0,0, 0, 固有名詞, 11 ,Noto, Peninsula, Reiwa, Ishikawa, Prefecture, Noto, Peninsula, Nanao, City, Anamizu, Town,0.92543775
+0,0,1, 1, 固有名詞, 4 ,Nanao, City, Anamizu, Town,0.9428952
+0,0,2, 2, 固有名詞, 4 ,Nanao, City, Anamizu, Town,0.79406244
+0,0,3, 3, 固有名詞, 0 ,,0.4177825
+0,0,4, 4, 固有名詞, 2 ,Facebook, Messenger,0.9486234
+0,0,5, 5, 固有名詞, 0 ,,0.8999742
+0,0,6, 6, 固有名詞, 0 ,,0.8029688
+0,0,7, 7, 固有名詞, 0 ,,0.8392241
+0,0,0, 0, 固有名詞, 11 ,Noto, Peninsula, Rei, Ishikawa, Prefecture, Noto, Peninsula, Nanao, City, Anamizu, Town,0.92201245
+0,0,0, 0, 固有名詞, 11 ,Noto, Peninsula, Rei, Ishikawa, Prefecture, Noto, Peninsula, Nanao, City, Anamizu, Town,0.92895746
+0,0,1, 1, 固有名詞, 4 ,Nanao, City, Anamizu, Town,0.9428952
+0,0,2, 2, 固有名詞, 4 ,Nanao, City, Anamizu, Town,0.79406244
+0,0,3, 3, 固有名詞, 0 ,,0.4177825
+0,0,4, 4, 固有名詞, 2 ,Facebook, Messenger,0.9486234
+0,0,5, 5, 固有名詞, 0 ,,0.8999742
+0,0,0, 0, 固有名詞, 11 ,Noto, Peninsula, Rei, Ishikawa, Prefecture, Noto, Peninsula, Nanao, City, Anamizu, Town,0.92895746
+0,0,1, 1, 固有名詞, 4 ,Nanao, City, Anamizu, Town,0.9428952
+0,0,2, 2, 固有名詞, 4 ,Nanao, City, Anamizu, Town,0.79406244
+0,0,3, 3, 固有名詞, 0 ,,0.4177825
+0,0,4, 4, 固有名詞, 2 ,Facebook, Messenger,0.9486234
+0,0,5, 5, 固有名詞, 0 ,,0.8999742
+0,0,0, 0, 固有名詞, 11 ,Noto, Peninsula, Rei, Ishikawa, Prefecture, Noto, Peninsula, Nanao, City, Anamizu, Town,0.92645025
+0,0,1, 1, 固有名詞, 4 ,Nanao, City, Anamizu, Town,0.9428952
+0,0,2, 2, 固有名詞, 4 ,Nanao, City, Anamizu, Town,0.79406244
+0,0,3, 3, 固有名詞, 0 ,,0.4177825
+0,0,4, 4, 固有名詞, 2 ,Facebook, Messenger,0.9486234
+0,0,5, 5, 固有名詞, 0 ,,0.8999742
+0,0,6, 6, 固有名詞, 0 ,,0.8029688
+0,0,7, 7, 固有名詞, 0 ,,0.8392241
+0,0,8, 8, 固有名詞, 0 ,,0.9227358
+0,0,9, 9, 固有名詞, 0 ,,0.8681431
+0,0,10, 10, 固有名詞, 0 ,,0.81955254
+0,0,11, 11, 固有名詞, 0 ,,0.80691665
+0,0,12, 12, 固有名詞, 0 ,,0.9350817
+0,0,13, 13, 固有名詞, 0 ,,0.7133717
+0,0,14, 14, 固有名詞, 0 ,,0.82553244
+0,0,15, 15, 固有名詞, 0 ,,0.8628567
+0,0,16, 16, 固有名詞, 1 ,Trump,0.8180217
+0,0,17, 17, 固有名詞, 1 ,Trump,0.9054284
+0,0,18, 18, 固有名詞, 3 ,Trump, Trump, CPAC,0.5981754
+0,0,19, 19, 固有名詞, 2 ,CPACS, AIDS,0.836467
+0,0,20, 20, 固有名詞, 0 ,,0.8077128
+0,0,21, 21, 固有名詞, 2 ,Karachi, Pakistan,0.51297003
+0,0,22, 22, 固有名詞, 6 ,Karachi, Yomiuri, Shimbun, Shinjuku, Police, Yoshida,0.6967846
+0,0,23, 23, 固有名詞, 3 ,Yoshida, Tatsuya, Yoshida,0.8939514
+0,0,24, 24, 固有名詞, 3 ,Tatsuya, Yoshi, Miyagi,0.5206332
+0,0,25, 25, 固有名詞, 5 ,Tatsu, Yu, -, Gi, Oh,0.7976563
+0,0,0, 0, 固有名詞, 11 ,Noto, Peninsula, Rei, Ishikawa, Prefecture, Noto, Peninsula, Nanao, City, Anamizu, Town,0.92645025
+0,0,1, 1, 固有名詞, 4 ,Nanao, City, Anamizu, Town,0.9428952
+0,0,2, 2, 固有名詞, 4 ,Nanao, City, Anamizu, Town,0.79406244
+0,0,3, 3, 固有名詞, 0 ,,0.4177825
+0,0,4, 4, 固有名詞, 2 ,Facebook, Messenger,0.9486234
+0,0,5, 5, 固有名詞, 0 ,,0.8999742
+0,0,0, 0, 固有名詞, 11 ,Noto, Peninsula, Rei, Ishikawa, Prefecture, Noto, Peninsula, Nanao, City, Anamizu, Town,0.92709875
+0,0,1, 1, 固有名詞, 4 ,Nanao, City, Anamizu, Town,0.9428952
+0,0,2, 2, 固有名詞, 4 ,Nanao, City, Anamizu, Town,0.79406244
+0,0,3, 3, 固有名詞, 0 ,,0.4177825
+0,0,4, 4, 固有名詞, 2 ,Facebook, Messenger,0.9486234
+0,0,5, 5, 固有名詞, 0 ,,0.8999742
+0,0,6, 6, 固有名詞, 0 ,,0.8029688
+0,0,7, 7, 固有名詞, 0 ,,0.8392241
+0,0,8, 8, 固有名詞, 0 ,,0.9227358
+0,0,9, 9, 固有名詞, 0 ,,0.8681431
+0,0,10, 10, 固有名詞, 0 ,,0.81955254
+0,0,11, 11, 固有名詞, 0 ,,0.80691665
+0,0,0, 0, 固有名詞, 11 ,Noto, Peninsula, Rei, Ishikawa, Prefecture, Noto, Peninsula, Nanao, City, Anamizu, Town,0.92709875
+0,0,1, 1, 固有名詞, 4 ,Nanao, City, Anamizu, Town,0.9428952
+0,0,0, 0, 固有名詞, 11 ,Noto, Peninsula, Rei, Ishikawa, Prefecture, Noto, Peninsula, Nanao, City, Anamizu, Town,0.925928
+0,0,1, 1, 固有名詞, 4 ,Nanao, City, Anamizu, Town,0.9428952
+0,0,0, 0, 固有名詞, 11 ,Noto, Peninsula, Rei, Ishikawa, Prefecture, Noto, Peninsula, Nanao, City, Anamizu, Town,0.925928
+0,0,1, 1, 固有名詞, 4 ,Nanao, City, Anamizu, Town,0.9428952
+0,0,0, 0, 固有名詞, 11 ,Noto, Peninsula, Rei, Ishikawa, Prefecture, Noto, Peninsula, Nanao, City, Anamizu, Town,0.925928
+0,0,1, 1, 固有名詞, 4 ,Nanao, City, Anamizu, Town,0.9428952
+0,0,2, 2, 固有名詞, 4 ,Nanao, City, Anamizu, Town,0.79406244
+0,0,3, 3, 固有名詞, 0 ,,0.4177825
+0,0,4, 4, 固有名詞, 2 ,Facebook, Messenger,0.9486234
+0,0,5, 5, 固有名詞, 0 ,,0.8999742
+0,0,6, 6, 固有名詞, 0 ,,0.8029688
+0,0,7, 7, 固有名詞, 0 ,,0.8392241
+0,0,8, 8, 固有名詞, 0 ,,0.9227358
+0,0,0, 0, 固有名詞, 11 ,Noto, Peninsula, Rei, Ishikawa, Prefecture, Noto, Peninsula, Nanao, City, Anamizu, Town,0.9292289
+0,0,0, 0, 固有名詞, 11 ,Noto, Peninsula, Rei, Ishikawa, Prefecture, Noto, Peninsula, Nanao, City, Anamizu, Town,0.92717713
+0,0,1, 1, 固有名詞, 4 ,Nanao, City, Anamizu, Town,0.9428952
+0,0,2, 2, 固有名詞, 4 ,Nanao, City, Anamizu, Town,0.79406244
+0,0,3, 3, 固有名詞, 0 ,,0.4177825
+0,0,4, 4, 固有名詞, 2 ,Facebook, Messenger,0.9486234
+0,0,5, 5, 固有名詞, 0 ,,0.8999742
+0,0,0, 0, 固有名詞, 11 ,Noto, Peninsula, Rei, Ishikawa, Prefecture, Noto, Peninsula, Nanao, City, Anamizu, Town,0.92717713
+0,0,1, 1, 固有名詞, 4 ,Nanao, City, Anamizu, Town,0.9428952
+0,0,2, 2, 固有名詞, 4 ,Nanao, City, Anamizu, Town,0.79406244
+0,0,0, 0, 固有名詞, 11 ,Noto, Peninsula, Rei, Ishikawa, Prefecture, Noto, Peninsula, Nanao, City, Anamizu, Town,0.9263642
+0,0,1, 1, 固有名詞, 4 ,Nanao, City, Anamizu, Town,0.9428952
+0,0,2, 2, 固有名詞, 4 ,Nanao, City, Anamizu, Town,0.79406244
+0,0,3, 3, 固有名詞, 0 ,,0.4177825
+0,0,0, 0, 固有名詞, 11 ,Noto, Peninsula, Rei, Ishikawa, Prefecture, Noto, Peninsula, Nanao, City, Anamizu, Town,0.93272316
+0,0,1, 1, 固有名詞, 4 ,Nanao, City, Anamizu, Town,0.9428952
+0,0,2, 2, 固有名詞, 4 ,Nanao, City, Anamizu, Town,0.79406244
+0,0,0, 0, 固有名詞, 11 ,Noto, Peninsula, Rei, Ishikawa, Prefecture, Noto, Peninsula, Nanao, City, Anamizu, Town,0.93272316
+0,0,1, 1, 固有名詞, 4 ,Nanao, City, Anamizu, Town,0.9428952
+0,0,2, 2, 固有名詞, 4 ,Nanao, City, Anamizu, Town,0.79406244
+0,0,3, 3, 固有名詞, 0 ,,0.4177825
+0,0,4, 4, 固有名詞, 2 ,Facebook, Messenger,0.9486234
+0,0,0, 0, 固有名詞, 11 ,Noto, Peninsula, Rei, Ishikawa, Prefecture, Noto, Peninsula, Nanao, City, Anamizu, Town,0.93272316
+0,0,1, 1, 固有名詞, 4 ,Nanao, City, Anamizu, Town,0.9428952
+0,0,2, 2, 固有名詞, 4 ,Nanao, City, Anamizu, Town,0.79406244
+0,0,3, 3, 固有名詞, 0 ,,0.4177825
+0,0,4, 4, 固有名詞, 2 ,Facebook, Messenger,0.9486234
+0,0,5, 5, 固有名詞, 0 ,,0.8999742
+0,0,6, 6, 固有名詞, 0 ,,0.8029688
+0,0,7, 7, 固有名詞, 0 ,,0.8392241
+0,0,0, 0, 固有名詞, 8 ,Japan, Japan, Kanto, Koshin, Kanto, Great, Cold, Year,0.9202756
+0,0,0, 0, 固有名詞, 5 ,Japan, Japan, Kanto, Koshin, Kanto,0.7974055
+0,0,1, 1, 固有名詞, 2 ,Kanto, Cold,0.78149325
+0,0,2, 2, 固有名詞, 3 ,Kanto, Great, Cold,0.88640475
+0,0,0, 0, 固有名詞, 5 ,Japan, Japan, Kanto, Koshin, Kanto,0.7974055
+0,0,1, 1, 固有名詞, 2 ,Kanto, Cold,0.78149325
+0,0,0, 0, 固有名詞, 7 ,Japan, Japan, Kanto, Koshin, Kanto, Great, Cold,0.8319151
+0,0,1, 1, 固有名詞, 2 ,Kanto, Cold,0.8134892
+0,0,2, 2, 固有名詞, 2 ,Kanto, Kakari,0.9170814
+0,0,0, 0, 固有名詞, 5 ,Japan, Japan, Kanto, Koshin, Kanto,0.7974055
+0,0,1, 1, 固有名詞, 2 ,Kanto, Cold,0.78149325
+0,0,2, 2, 固有名詞, 3 ,Kanto, Great, Cold,0.88640475
+0,0,3, 3, 固有名詞, 0 ,,0.7841232
+0,0,0, 0, 固有名詞, 5 ,Japan, Japan, Kanto, Koshin, Kanto,0.7974055
+0,0,1, 1, 固有名詞, 2 ,Kanto, Cold,0.78149325
+0,0,2, 2, 固有名詞, 3 ,Kanto, Great, Cold,0.88640475
+0,0,0, 0, 固有名詞, 1 ,Kanto,0.9735203
+0,0,1, 1, 固有名詞, 0 ,,0.88927925
+0,0,2, 2, 固有名詞, 0 ,,0.88383645
+0,0,3, 3, 固有名詞, 1 ,RA,0.40917706
+0,0,0, 0, 固有名詞, 1 ,Kanto,0.9735203
+0,0,1, 1, 固有名詞, 0 ,,0.88927925
+0,0,2, 2, 固有名詞, 0 ,,0.88383645
+0,0,3, 3, 固有名詞, 1 ,RA,0.40917706
+0,0,4, 4, 固有名詞, 10 ,RA, 2, American, David, E, ., Bader, Department, of, Defense,0.88534737
+0,0,5, 5, 固有名詞, 14 ,David, E, ., Bader, Department, of, Defense, Space, Program, Naval, War, College, HC, 3,0.7554479
+0,0,6, 6, 固有名詞, 13 ,Department, of, Defense, Space, Program, Naval, War, College, H, 3, S, -, 400,0.40681434
+0,0,7, 7, 固有名詞, 50 ,Monitoring, and, Treatment, National, Institute, for, Health, and, Clinical, Excellence, NICE, National, Institute, on, Drug, Abuse, NIDA, NIDA, Clinical, Trials, Unit, National, Institute, on, Alcohol, Abuse, and, Alcoholism, NIDA, Clinical, Trials, Unit, Department, of, Health, ,, Education, ,, Labor, and, Welfare, Drug, Enforcement, Administration, DEA, National, Council, on, Substance, Abuse,0.93252
+0,0,8, 8, 固有名詞, 49 ,Institute, on, Alcohol, Abuse, and, Alcoism, NIDA, Clinical, Trials, Unit, Department, of, Health, ,, Education, ,, Labor, and, Welfare, Drug, Enforcement, Administration, DEA, National, Council, on, Substance, Abuse, Prevention, and, Control, National, Research, Council, Office, of, Alcohol, Analysis, and, Control, National, Youth, Rehabilitation, Center, SNRC, Drug, Enforcement, Administration, .,0.857168
+0,0,0, 0, 固有名詞, 1 ,Kanto,0.9735203
+0,0,1, 1, 固有名詞, 0 ,,0.88927925
+0,0,2, 2, 固有名詞, 0 ,,0.88383645
+0,0,3, 3, 固有名詞, 1 ,RA,0.40917706
+0,0,4, 4, 固有名詞, 10 ,RA, 2, American, David, E, ., Bader, Department, of, Defense,0.88534737
+0,0,5, 5, 固有名詞, 14 ,David, E, ., Bader, Department, of, Defense, Space, Program, Naval, War, College, HC, 3,0.7554479
+0,0,6, 6, 固有名詞, 13 ,Department, of, Defense, Space, Program, Naval, War, College, H, 3, S, -, 400,0.40681434
+0,0,7, 7, 固有名詞, 50 ,Monitoring, and, Treatment, National, Institute, for, Health, and, Clinical, Excellence, NICE, National, Institute, on, Drug, Abuse, NIDA, NIDA, Clinical, Trials, Unit, National, Institute, on, Alcohol, Abuse, and, Alcoholism, NIDA, Clinical, Trials, Unit, Department, of, Health, ,, Education, ,, Labor, and, Welfare, Drug, Enforcement, Administration, DEA, National, Council, on, Substance, Abuse,0.93252
+0,0,0, 0, 固有名詞, 1 ,Kanto,0.9781024
+0,0,1, 1, 固有名詞, 0 ,,0.90292174
+0,0,2, 2, 固有名詞, 0 ,,0.9172876
+0,0,3, 3, 固有名詞, 0 ,,0.8764324
+0,0,4, 4, 固有名詞, 8 ,I, -, 60, I, -, 95, Sacramento, Valley,0.90011626
+0,0,5, 5, 固有名詞, 24 ,I, -, 60, I, -, 95, Sacramento, Valley, California, Highway, Patrol, United, Way, of, Orange, County, I, -, 95, I, -, 8, Sacramento, Bay,0.80368435
+0,0,8, 6, 固有名詞, 0 ,,-0.20874983
+0,0,9, 7, 固有名詞, 9 ,FBI, Justice, Department, FBI, FBI, Stephen, T, ., Swain,0.32697934
+0,0,10, 8, 固有名詞, 26 ,Justice, R, S, T, L, Gunn, Ed, P, Intergenerational, Effects, of, Environmental, Change, Journal, of, Social, &, Behavioral, Psychology, Kathy, R, S, ., Gould, E, A,0.696905
+0,0,11, 9, 固有名詞, 16 ,Kathy, R, ., S, Gould, E, ., A, J, Anxiety, Behav, Mason, J, G, S, Brown,0.6711854
+0,0,13, 10, 固有名詞, 0 ,,-0.044303592
+0,0,14, 11, 固有名詞, 8 ,U, ., S, ., U, ., S, .,0.8118899
+0,0,15, 12, 固有名詞, 5 ,U, ., S, ., Navy,0.14068276
+0,0,16, 13, 固有名詞, 0 ,,0.94110245
+0,0,17, 14, 固有名詞, 0 ,,0.9325639
+0,0,18, 15, 固有名詞, 0 ,,0.8859915
+0,0,19, 16, 固有名詞, 0 ,,0.9544344
+0,0,20, 17, 固有名詞, 0 ,,0.9114444
+0,0,21, 18, 固有名詞, 0 ,,0.9316273
+0,0,22, 19, 固有名詞, 0 ,,0.87750053
+0,0,24, 20, 固有名詞, 0 ,,-0.090382285
+0,0,25, 21, 固有名詞, 0 ,,0.878888
+0,0,26, 22, 固有名詞, 0 ,,0.95480406
+0,0,27, 23, 固有名詞, 0 ,,0.89957094
+0,0,28, 24, 固有名詞, 2 ,US, Porsche,0.92279565
+0,0,0, 0, 固有名詞, 1 ,Kanto,0.9735203
+0,0,0, 0, 固有名詞, 1 ,Kanto,0.9735203
+0,0,0, 0, 固有名詞, 1 ,Kanto,0.9735203
+0,0,1, 1, 固有名詞, 0 ,,0.88927925
+0,0,0, 0, 固有名詞, 1 ,Kanto,0.9735203
+0,0,1, 1, 固有名詞, 0 ,,0.88927925
+0,0,0, 0, 固有名詞, 1 ,Kanto,0.9735203
+0,0,1, 1, 固有名詞, 0 ,,0.88927925
+0,0,0, 0, 固有名詞, 1 ,Kanto,0.9735203
+0,0,1, 1, 固有名詞, 0 ,,0.88927925
+0,0,2, 2, 固有名詞, 0 ,,0.88383645
+0,0,3, 3, 固有名詞, 1 ,RA,0.40917706
+0,0,5, 4, 固有名詞, 0 ,,-0.03177388
+0,0,6, 5, 固有名詞, 4 ,MA, MAPI, Windows, Vista,0.5931531
+0,0,7, 6, 固有名詞, 1 ,MA,0.82834685
+0,0,8, 7, 固有名詞, 0 ,,0.856261
+0,0,9, 8, 固有名詞, 0 ,,0.86968535
+0,0,0, 0, 固有名詞, 1 ,Kanto,0.9735203
+0,0,1, 1, 固有名詞, 0 ,,0.88927925
+0,0,2, 2, 固有名詞, 0 ,,0.88383645
+0,0,3, 3, 固有名詞, 1 ,RA,0.40917706
+0,0,4, 4, 固有名詞, 10 ,RA, 2, American, David, E, ., Bader, Department, of, Defense,0.88534737
+0,0,5, 5, 固有名詞, 14 ,David, E, ., Bader, Department, of, Defense, Space, Program, Naval, War, College, HC, 3,0.7554479
+0,0,6, 6, 固有名詞, 13 ,Department, of, Defense, Space, Program, Naval, War, College, H, 3, S, -, 400,0.40681434
+0,0,7, 7, 固有名詞, 50 ,Monitoring, and, Treatment, National, Institute, for, Health, and, Clinical, Excellence, NICE, National, Institute, on, Drug, Abuse, NIDA, NIDA, Clinical, Trials, Unit, National, Institute, on, Alcohol, Abuse, and, Alcoholism, NIDA, Clinical, Trials, Unit, Department, of, Health, ,, Education, ,, Labor, and, Welfare, Drug, Enforcement, Administration, DEA, National, Council, on, Substance, Abuse,0.93252
+0,0,8, 8, 固有名詞, 49 ,Institute, on, Alcohol, Abuse, and, Alcoism, NIDA, Clinical, Trials, Unit, Department, of, Health, ,, Education, ,, Labor, and, Welfare, Drug, Enforcement, Administration, DEA, National, Council, on, Substance, Abuse, Prevention, and, Control, National, Research, Council, Office, of, Alcohol, Analysis, and, Control, National, Youth, Rehabilitation, Center, SNRC, Drug, Enforcement, Administration, .,0.857168
+0,0,9, 9, 固有名詞, 27 ,Abuse, Prevention, and, Control, National, Research, Council, Office, of, Alcohol, Analysis, and, Control, National, Youth, Rehabilitation, Center, SNRC, Drug, Enforcement, Administration, A, Alcohol, Use, Prevention, and, Control,0.4136563
+0,0,0, 0, 固有名詞, 1 ,Kanto,0.9735203
+0,0,1, 1, 固有名詞, 0 ,,0.88927925
+0,0,2, 2, 固有名詞, 0 ,,0.88383645
+0,0,3, 3, 固有名詞, 1 ,RA,0.40917706
+0,0,0, 0, 固有名詞, 1 ,Kanto,0.9735203
+0,0,1, 1, 固有名詞, 0 ,,0.88927925
+0,0,2, 2, 固有名詞, 0 ,,0.88383645
+0,0,3, 3, 固有名詞, 1 ,RA,0.40917706
+0,0,0, 0, 固有名詞, 1 ,Kanto,0.9735203
+0,0,1, 1, 固有名詞, 0 ,,0.88927925
+0,0,2, 2, 固有名詞, 0 ,,0.88383645
+0,0,3, 3, 固有名詞, 1 ,RA,0.40917706
+0,0,0, 0, 固有名詞, 1 ,Kanto,0.9735203
+0,0,1, 1, 固有名詞, 0 ,,0.88927925
+0,0,2, 2, 固有名詞, 0 ,,0.88383645
+0,0,0, 0, 固有名詞, 1 ,Kanto,0.9735203
+0,0,1, 1, 固有名詞, 0 ,,0.88927925
+0,0,2, 2, 固有名詞, 0 ,,0.88383645
+0,0,3, 3, 固有名詞, 1 ,RA,0.40917706
+0,0,0, 0, 固有名詞, 1 ,Kanto,0.9735203
+0,0,1, 1, 固有名詞, 0 ,,0.88927925
+0,0,2, 2, 固有名詞, 0 ,,0.88383645
+0,0,3, 3, 固有名詞, 1 ,RA,0.40917706
+0,0,7, 4, 固有名詞, 0 ,,-0.03177388
+0,0,8, 5, 固有名詞, 4 ,MA, MAPI, Windows, Vista,0.81323165
+0,0,9, 6, 固有名詞, 0 ,,0.92769283
+0,0,10, 7, 固有名詞, 0 ,,0.87647605
+0,0,11, 8, 固有名詞, 0 ,,0.79285514
+0,0,12, 9, 固有名詞, 2 ,NMB, NMB,0.4002297
+0,0,16, 10, 固有名詞, 0 ,,0.08493306
+0,0,17, 11, 固有名詞, 3 ,Ubuntu, Ubuntu, Desktop,0.71869767
+0,0,18, 12, 固有名詞, 0 ,,0.7584096
+0,0,0, 0, 固有名詞, 12 ,Noto, Peninsula, Reiwa, Wajima, City, Ishikawa, Prefecture, Noto, Peninsula, Board, of, Education,0.9035151
+0,0,1, 1, 固有名詞, 3 ,Board, of, Education,0.8516618
+0,0,2, 2, 固有名詞, 4 ,Board, of, Education, Kiley,0.91294634
+0,0,0, 0, 固有名詞, 12 ,Noto, Peninsula, Reiwa, Wajima, City, Ishikawa, Prefecture, Noto, Peninsula, Board, of, Education,0.9022348
+0,0,1, 1, 固有名詞, 3 ,Board, of, Education,0.8516618
+0,0,0, 0, 固有名詞, 2 ,Ai, TV,0.559898
+0,0,1, 1, 固有名詞, 4 ,Ai, TVVP, Ia, TV,0.32902634
+0,0,2, 2, 固有名詞, 0 ,,0.9289353
+0,0,3, 3, 固有名詞, 0 ,,0.79886913
+0,0,4, 4, 固有名詞, 1 ,Kra,0.89064956
+0,0,5, 5, 固有名詞, 1 ,Kra,0.8932723
+0,0,6, 6, 固有名詞, 4 ,Dabakis, South, Florida, Avenue,0.15524441
+0,0,7, 7, 固有名詞, 13 ,Dabakis, C, J, Zawada, J, Zawada, H, Nagata, K, Kawajiri, M, Psychological, Science,0.7662713
+0,0,0, 0, 固有名詞, 7 ,Liberal, Democratic, Party, LDP, LDP, Motegi, NHK,0.8838374
+0,0,1, 1, 固有名詞, 0 ,,0.86830336
+0,0,2, 2, 固有名詞, 0 ,,0.86250407
+0,0,0, 0, 固有名詞, 7 ,Liberal, Democratic, Party, LDP, LDP, Motegi, NHK,0.8838374
+0,0,0, 0, 固有名詞, 7 ,Liberal, Democratic, Party, LDP, LDP, Motegi, NHK,0.8827708
+0,0,1, 1, 固有名詞, 0 ,,0.86830336
+0,0,9, 2, 固有名詞, 0 ,,-0.07729459
+0,0,10, 3, 固有名詞, 10 ,Dalai, Lama, US, Saudi, Arabia, Qatar, Saudi, Arabia, Dalai, Lama,0.8035979
+0,0,0, 0, 固有名詞, 7 ,Liberal, Democratic, Party, LDP, LDP, Motegi, NHK,0.8827708
+0,0,1, 1, 固有名詞, 0 ,,0.86830336
+0,0,2, 2, 固有名詞, 0 ,,0.86250407
+0,0,3, 3, 固有名詞, 1 ,Republicans,0.7556852
+0,0,4, 4, 固有名詞, 2 ,Republicans, Trump,0.8376373
+0,0,5, 5, 固有名詞, 1 ,Congress,0.90000176
+0,0,13, 6, 固有名詞, 0 ,,-0.063328475
+0,0,14, 7, 固有名詞, 1 ,Florida,0.82963884
+0,0,0, 0, 固有名詞, 8 ,Noto, Peninsula, Reiwa, Noto, Peninsula, Great, East, Japan,0.90790224
+0,0,1, 1, 固有名詞, 5 ,Great, East, Japanke, Japanese, Japanese,0.72135705
+0,0,2, 2, 固有名詞, 6 ,Japanese, Japanese, Japan, Japanese, Press, Council,0.91084814
+0,0,13, 3, 固有名詞, 0 ,,-0.03639289
+0,0,14, 4, 固有名詞, 0 ,,0.8557155
+0,0,0, 0, 固有名詞, 8 ,Noto, Peninsula, Reiwa, Noto, Peninsula, Great, East, Japan,0.9074723
+0,0,1, 1, 固有名詞, 5 ,Great, East, Japanke, Japanese, Japanese,0.72135705
+0,0,2, 2, 固有名詞, 6 ,Japanese, Japanese, Japan, Japanese, Press, Council,0.91084814
+0,0,3, 3, 固有名詞, 7 ,Japan, Japanese, Press, Council, Facebook, Twitter, Pharmacy,0.6028589
+0,0,4, 4, 固有名詞, 13 ,US, Fish, and, Wildlife, Service, US, Army, Corps, of, Engineers, Yellowstone, National, Park,0.9250623
+0,0,0, 0, 固有名詞, 8 ,Noto, Peninsula, Reiwa, Noto, Peninsula, Great, East, Japan,0.9074723
+0,0,1, 1, 固有名詞, 5 ,Great, East, Japanke, Japanese, Japanese,0.72135705
+0,0,2, 2, 固有名詞, 6 ,Japanese, Japanese, Japan, Japanese, Press, Council,0.91084814
+0,0,3, 3, 固有名詞, 7 ,Japan, Japanese, Press, Council, Facebook, Twitter, Pharmacy,0.6028589
+0,0,4, 4, 固有名詞, 13 ,US, Fish, and, Wildlife, Service, US, Army, Corps, of, Engineers, Yellowstone, National, Park,0.9250623
+0,0,5, 5, 固有名詞, 3 ,Yellowstone, National, Park,0.9150543
+0,0,0, 0, 固有名詞, 8 ,Noto, Peninsula, Reiwa, Noto, Peninsula, Great, East, Japan,0.9076492
+0,0,1, 1, 固有名詞, 5 ,Great, East, Japanke, Japanese, Japanese,0.72135705
+0,0,2, 2, 固有名詞, 6 ,Japanese, Japanese, Japan, Japanese, Press, Council,0.91084814
+0,0,3, 3, 固有名詞, 7 ,Japan, Japanese, Press, Council, Facebook, Twitter, Pharmacy,0.6028589
+0,0,4, 4, 固有名詞, 13 ,US, Fish, and, Wildlife, Service, US, Army, Corps, of, Engineers, Yellowstone, National, Park,0.9250623
+0,0,0, 0, 固有名詞, 22 ,Liberal, Democratic, Party, LDP, New, Government, Study, Group, Constitutional, Democratic, Party, of, Japan, CDP, Kenta, Izu, Political, Funds, Control, Law, LDP, LDP,0.95274955
+0,0,1, 1, 固有名詞, 12 ,Party, of, Japan, CDP, Kenta, Izumi, Political, Funds, Control, Law, LDP, LDP,0.9170662
+0,0,2, 2, 固有名詞, 5 ,Funds, Control, Law, LDP, LDP,0.8986695
+0,0,3, 3, 固有名詞, 1 ,LDP,0.24246427
+0,0,4, 4, 固有名詞, 10 ,LDP, IP6, IP4, Internet, Protocol, IPv4, IP, Internet, Protocol, IPv4,0.55165577
+0,0,0, 0, 固有名詞, 17 ,Noto, Peninsula, Reiwa, Ishikawa, Prefecture, Noto, Peninsula, Nanao, City, Shiga, City, Anamizu, Town, Kanazawa, City, Wajima, Suzu,0.9387746
+0,0,0, 0, 固有名詞, 12 ,Noto, Peninsula, Reiwa, New, Year, ', s, Day, Nishi, Ward, Niigata, City,0.6967331
+0,0,1, 1, 固有名詞, 0 ,,0.7373861
+0,0,2, 2, 固有名詞, 0 ,,0.91406
+0,0,3, 3, 固有名詞, 0 ,,0.8957433
+0,0,4, 4, 固有名詞, 0 ,,0.93244386
+0,0,5, 5, 固有名詞, 0 ,,0.9265306
+0,0,6, 6, 固有名詞, 1 ,Republicans,0.64441514
+0,0,7, 7, 固有名詞, 16 ,Republicans, Senate, Mitch, McConnell, R, Ky, Republican, Republican, Center, for, American, Progress, Mike, Pence, R, In,0.7743429
+0,0,8, 8, 固有名詞, 10 ,Center, for, American, Progress, Mike, Pence, R, In, White, House,0.94413817
+0,0,9, 9, 固有名詞, 8 ,White, House, U, ., S, ., United, States,0.5370467
+0,0,10, 10, 固有名詞, 3 ,White, R, W,0.8111005
+0,0,11, 11, 固有名詞, 0 ,,0.9038027
+0,0,12, 12, 固有名詞, 0 ,,0.7146691
+0,0,13, 13, 固有名詞, 0 ,,0.6669314
+0,0,14, 14, 固有名詞, 2 ,CoA, AD,0.3422888
+0,0,15, 15, 固有名詞, 0 ,,0.812889
+0,0,16, 16, 固有名詞, 0 ,,0.8059967
+0,0,17, 17, 固有名詞, 0 ,,0.88765216
+0,0,18, 18, 固有名詞, 0 ,,0.8718013
+0,0,19, 19, 固有名詞, 0 ,,0.75483257
+0,0,22, 20, 固有名詞, 0 ,,-0.17736045
+0,0,23, 21, 固有名詞, 1 ,Killer,0.78460324
+0,0,24, 22, 固有名詞, 0 ,,0.5076941
+0,0,28, 23, 固有名詞, 0 ,,-0.013852604
+0,0,0, 0, 固有名詞, 7 ,Liberal, Democratic, Party, LDP, LDP, Aso, Aso,0.8741435
+0,0,6, 1, 固有名詞, 0 ,,-0.15370977
+0,0,12, 2, 固有名詞, 0 ,,-0.080969214
+0,0,13, 3, 固有名詞, 0 ,,0.8761453
+0,0,14, 4, 固有名詞, 0 ,,0.95025265
+0,0,15, 5, 固有名詞, 0 ,,0.44818848
+0,0,16, 6, 固有名詞, 0 ,,0.86288106
+0,0,17, 7, 固有名詞, 1 ,Trump,0.73981637
+0,0,18, 8, 固有名詞, 2 ,Trump, Republican,0.70702016
+0,0,19, 9, 固有名詞, 14 ,Trump, White, House, Trump, FBI, James, Comey, Fox, News, Trump, White, House, Michael, T,0.92596585
+0,0,20, 10, 固有名詞, 15 ,James, Comey, Fox, News, Trump, White, House, Michael, T, ., Flynn, The, New, York, Times,0.84391177
+0,0,21, 11, 固有名詞, 10 ,Michael, T, ., Flynn, The, New, York, Times, Flynn, Flynn,0.41106504
+0,0,22, 12, 固有名詞, 23 ,Michael, Jean, U, ., S, ., Department, of, Defense, Information, Technology, Division, ITDI, Star, Wars, :, Battlefront, Star, Wars, :, The, Old, Republic,0.5388669
+0,0,23, 13, 固有名詞, 13 ,Star, Wars, :, Battlefront, Star, Wars, :, The, Old, Republic, New, York, Times,0.3063333
+0,0,24, 14, 固有名詞, 8 ,Ramadan, Muslim, Allah, Ramadan, Muslim, Christians, Muslim, Brotherhood,0.4163982
+0,0,0, 0, 固有名詞, 7 ,Liberal, Democratic, Party, LDP, LDP, Aso, Aso,0.87221134
+0,0,1, 1, 固有名詞, 1 ,Aso,0.96326494
+0,0,2, 2, 固有名詞, 1 ,Cameron,0.84747505
+0,0,3, 3, 固有名詞, 3 ,Cameron, Coalition, Tanya,0.51434565
+0,0,4, 4, 固有名詞, 1 ,Tanya,0.8104489
+0,0,6, 5, 固有名詞, 0 ,,-0.07031804
+0,0,9, 6, 固有名詞, 0 ,,-0.0068606865
+0,0,10, 7, 固有名詞, 14 ,of, The, Superlatives, of, The, Superlativeslative, The, Lancet, The, New, England, Journal, of, Medicine,0.8211664
+0,0,11, 8, 固有名詞, 9 ,The, Lancet, The, New, England, Journal, of, Medicine, Internet,0.6149142
+0,0,12, 9, 固有名詞, 5 ,Internet, U, ., S, .,0.5720988
+0,0,13, 10, 固有名詞, 10 ,Internet, Microsoft, Office, Office, Microsoft, Office, 2016, Microsoft, Office, Microsoft,0.92485213
+0,0,14, 11, 固有名詞, 8 ,Microsoft, Office, 2016, Microsoft, Office, 2016, Microsoft, Bar,0.8716614
+0,0,15, 12, 固有名詞, 5 ,Microsoft, View, Bar, View, Bar,0.53504467
+0,0,17, 13, 固有名詞, 0 ,,-0.11634712
+0,0,18, 14, 固有名詞, 12 ,National, Rifle, Association, National, Association, of, Manufacturers, -, Manufacturers, &, Trademarks, NRA,0.5309881
+0,0,19, 15, 固有名詞, 7 ,NRA, United, States, Affordable, Care, Act, ACA,0.6162801
+0,0,20, 16, 固有名詞, 5 ,Affordable, Care, Act, ACA, GE,0.9180412
+0,0,21, 17, 固有名詞, 1 ,GED,0.33543658
+0,0,0, 0, 固有名詞, 7 ,Liberal, Democratic, Party, LDP, LDP, Aso, Aso,0.8808928
+0,0,1, 1, 固有名詞, 2 ,Aso, Aso,0.960979
+0,0,2, 2, 固有名詞, 1 ,Cameron,0.8328084
+0,0,3, 3, 固有名詞, 5 ,Cameron, First, Women, Ed, Miliband,0.5257678
+0,0,4, 4, 固有名詞, 10 ,Cameron, Housley, V, Sony, PlayStation, 3, Xbox, 360, Techland, V,0.8011357
+0,0,0, 0, 固有名詞, 7 ,Liberal, Democratic, Party, LDP, LDP, Aso, Aso,0.8669177
+0,0,1, 1, 固有名詞, 1 ,Aso,0.96326494
+0,0,2, 2, 固有名詞, 1 ,Cameron,0.84747505
+0,0,3, 3, 固有名詞, 3 ,Cameron, Coalition, Tanya,0.51434565
+0,0,4, 4, 固有名詞, 1 ,Tanya,0.8104489
+0,0,5, 5, 固有名詞, 0 ,,0.6769112
+0,0,6, 6, 固有名詞, 0 ,,0.8990432
+0,0,7, 7, 固有名詞, 0 ,,0.89032817
+0,0,8, 8, 固有名詞, 0 ,,0.82047045
+0,0,10, 9, 固有名詞, 0 ,,-0.19307116
+0,0,11, 10, 固有名詞, 1 ,Japan,0.8883657
+0,0,15, 11, 固有名詞, 0 ,,-0.13254012
+0,0,16, 12, 固有名詞, 0 ,,0.9090704
+0,0,17, 13, 固有名詞, 0 ,,0.8188797
+0,0,18, 14, 固有名詞, 0 ,,0.9090854
+0,0,19, 15, 固有名詞, 0 ,,0.75474876
+0,0,20, 16, 固有名詞, 0 ,,0.8502826
+0,0,21, 17, 固有名詞, 0 ,,0.8306987
+0,0,22, 18, 固有名詞, 0 ,,0.707533
+0,0,23, 19, 固有名詞, 0 ,,0.5391084
+0,0,24, 20, 固有名詞, 3 ,The, Taken, King,0.38658416
+0,0,27, 21, 固有名詞, 0 ,,-0.17857474
+0,0,0, 0, 固有名詞, 19 ,KyoAni, Arson, Murder, Case, Shinji, Aob, Kyoto, Kyoto, District, Court, Osaka, High, Court, Aob, Asahi, Shimbun, Osaka, Detention, Center,0.97601664
+0,0,1, 1, 固有名詞, 12 ,Kyoto, District, Court, Osaka, High, Court, Aob, Asahi, Shimbun, Osaka, Detention, Center,0.7583145
+0,0,10, 2, 固有名詞, 0 ,,0.287721
+0,0,18, 3, 固有名詞, 0 ,,-0.19579619
+0,0,0, 0, 固有名詞, 19 ,KyoAni, Arson, Murder, Case, Shinji, Aoba, Kyoto, Kyoto, District, Court, Osaka, High, Court, Aob, Asahi, Shimbun, Osaka, Detention, Center,0.97607005
+0,0,1, 1, 固有名詞, 13 ,Kyoto, Kyoto, District, Court, Osaka, High, Court, Aob, Asahi, Shimbun, Osaka, Detention, Center,0.8212725
+0,0,2, 2, 固有名詞, 9 ,Osaka, High, Court, Aob, Asahi, Shimbun, Osaka, Detention, Center,0.78165925
+0,0,3, 3, 固有名詞, 5 ,Asahi, Shimbun, Osaka, Detention, Center,0.4175449
+0,0,5, 4, 固有名詞, 0 ,,-0.03597984
+0,0,6, 5, 固有名詞, 6 ,Indian, Islamic, Mohsinullah, Khan, Haryana, India,0.3754228
+0,0,0, 0, 固有名詞, 21 ,Liberal, Democratic, Party, LDP, Motegi, LDP, Toshimitsu, Motegi, Heisei, Study, Group, Internal, Affairs, and, Communications, Motegi, Yuko, Obuchi, Abe, Aso, Motegi,0.9206299
+0,0,0, 0, 固有名詞, 2 ,Abe, Abe,0.7870262
+0,0,1, 1, 固有名詞, 0 ,,0.85328794
+0,0,0, 0, 固有名詞, 26 ,House, of, Representatives, Budget, Committee, Liberal, Democratic, Party, Fumio, Kishida, Political, Fund, Balance, Report, Research, and, Public, Relations, Expenses, Doc, ,, Communications, and, Transportation, Ex, Diet,0.95407
+0,0,1, 1, 固有名詞, 21 ,Liberal, Democratic, Party, Fumio, Kishida, Political, Fund, Balance, Report, Research, and, Public, Relations, Expenses, Docume, ,, Communications, and, Transportation, Expenses, Diet,0.9372456
+0,0,2, 2, 固有名詞, 12 ,Research, and, Public, Relations, Exses, Docume, ,, Communications, and, Transportation, Ex, Diet,0.735121
+0,0,0, 0, 固有名詞, 3 ,Sea, of, Japan,0.73429847
+0,0,0, 0, 固有名詞, 3 ,Sea, of, Japan,0.73429847
+0,0,0, 0, 固有名詞, 2 ,Saitama, Shimb,0.9195703
+0,0,0, 0, 固有名詞, 7 ,Na, SBC, Shin, -, Etsu, Broadcasting, Sun,0.7621475
+0,0,1, 1, 固有名詞, 7 ,Na, SBC, Shin, -, Etsu, Broadcasting, Sun,0.8919028
+0,0,2, 2, 固有名詞, 5 ,Sun, Fan, Michael, Loomi, Lo,0.64961755
+0,0,3, 3, 固有名詞, 7 ,Fan, Michael, Loomi, Loomi, Fan, African, American,0.5577072
+0,0,4, 4, 固有名詞, 6 ,African, Afghan, US, US, Pentagon, Iraq,0.85421145
+0,0,5, 5, 固有名詞, 9 ,US, Pentagon, Iraq, US, Defense, Department, Iraqi, US, Baghdad,0.7920202
+0,0,6, 6, 固有名詞, 11 ,Iraq, US, Defense, Department, Iraqi, US, Baghdad, Pentagon, United, States, Military,0.46066192
+0,0,7, 7, 固有名詞, 1 ,US,0.8286003
+0,0,8, 8, 固有名詞, 3 ,Metropolitan, Police, James,0.60646856
+0,0,9, 9, 固有名詞, 9 ,Metropolitan, Police, James, Star, and, Mail, Scotland, Yard, MailOnline,0.15934409
+0,0,10, 10, 固有名詞, 48 ,Metropolitan, States, North, Alabama, Northern, Southeast, South, Alabama, South, Dakota, South, Dakota, West, Alabama, South, Dakota, East, Alabama, South, Dakota, West, West, Alabama, West, Alabama, Alabama, West, Alabama, Alaska, Alabama, Alaska, Arizona, Arizona, California, Calif, D, ., C, ., F, ., D, ., Michigan, Minnesota, Montana, North, Carolina,0.94467866
+0,0,11, 11, 固有名詞, 47 ,West, West, Alabama, West, Alabama, Alabama, West, Alabama, Alaska, Alabama, Alaska, Arizona, Arizona, California, Calif, D, ., C, ., F, ., D, ., Michigan, Minnesota, Montana, North, Carolina, North, Carolina, Alaska, Apt, Alaska, Arkansas, Alaska, Arkansas, Arizona, Arizona, California, Chico, Colorado, Colorado, Colorado, Colorado, Florida, Florida, Georgia,0.91597533
+0,0,0, 0, 固有名詞, 7 ,Na, SBC, Shin, -, Etsu, Broadcasting, Sun,0.7621475
+0,0,1, 1, 固有名詞, 7 ,Na, SBC, Shin, -, Etsu, Broadcasting, Sun,0.8919028
+0,0,2, 2, 固有名詞, 5 ,Sun, Fan, Michael, Loomi, Lo,0.64961755
+0,0,3, 3, 固有名詞, 7 ,Fan, Michael, Loomi, Loomi, Fan, African, American,0.5577072
+0,0,4, 4, 固有名詞, 6 ,African, Afghan, US, US, Pentagon, Iraq,0.85421145
+0,0,5, 5, 固有名詞, 9 ,US, Pentagon, Iraq, US, Defense, Department, Iraqi, US, Baghdad,0.7920202
+0,0,6, 6, 固有名詞, 11 ,Iraq, US, Defense, Department, Iraqi, US, Baghdad, Pentagon, United, States, Military,0.46066192
+0,0,7, 7, 固有名詞, 1 ,US,0.8286003
+0,0,8, 8, 固有名詞, 3 ,Metropolitan, Police, James,0.60646856
+0,0,9, 9, 固有名詞, 9 ,Metropolitan, Police, James, Star, and, Mail, Scotland, Yard, MailOnline,0.15934409
+0,0,10, 10, 固有名詞, 48 ,Metropolitan, States, North, Alabama, Northern, Southeast, South, Alabama, South, Dakota, South, Dakota, West, Alabama, South, Dakota, East, Alabama, South, Dakota, West, West, Alabama, West, Alabama, Alabama, West, Alabama, Alaska, Alabama, Alaska, Arizona, Arizona, California, Calif, D, ., C, ., F, ., D, ., Michigan, Minnesota, Montana, North, Carolina,0.94467866
+0,0,11, 11, 固有名詞, 47 ,West, West, Alabama, West, Alabama, Alabama, West, Alabama, Alaska, Alabama, Alaska, Arizona, Arizona, California, Calif, D, ., C, ., F, ., D, ., Michigan, Minnesota, Montana, North, Carolina, North, Carolina, Alaska, Apt, Alaska, Arkansas, Alaska, Arkansas, Arizona, Arizona, California, Chico, Colorado, Colorado, Colorado, Colorado, Florida, Florida, Georgia,0.91597533
+0,0,12, 12, 固有名詞, 44 ,Michigan, Minnesota, Montana, North, Carolina, North, Carolina, Alaska, A, Alaska, Arkansas, Alaska, Arkansas, Arizona, Arizona, California, Chico, Colorado, Colorado, Colorado, Colorado, Florida, Florida, Georgia, Georgia, Illinois, Illinois, Indiana, Indiana, Iowa, Iowa, Kansas, Kansas, Kyrie, Kentucky, Louisiana, Louisiana, Maine, Louisiana, Mississippi, Mississippi, Missouri, Missouri, Montana,0.47714573
+0,0,13, 13, 固有名詞, 8 ,Colorado, Trump, Cruz, Republican, Hispanic, Democrats, Trump, Trump,0.8220452
+0,0,14, 14, 固有名詞, 4 ,Hispanic, Democrats, Trump, Trump,0.86341584
+0,0,15, 15, 固有名詞, 0 ,,0.85199034
+0,0,16, 16, 固有名詞, 0 ,,0.88811904
+0,0,17, 17, 固有名詞, 1 ,Richmond,0.86795163
+0,0,18, 18, 固有名詞, 1 ,Richmond,0.61980444
+0,0,19, 19, 固有名詞, 13 ,Richmond, County, Patrick, Murray, CBS, News, E, ., 4th, Street, Downtown, Fort, Worth,0.8654351
+0,0,20, 20, 固有名詞, 9 ,CBS, News, E, ., 4th, Street, Downtown, Fort, Worth,0.87264925
+0,0,21, 21, 固有名詞, 2 ,Fort, Worth,0.46765372
+0,0,22, 22, 固有名詞, 10 ,Fort, C, ., A, ., I, ., M, Justice, Department,0.7009002
+0,0,23, 23, 固有名詞, 0 ,,0.80301356
+0,0,24, 24, 固有名詞, 2 ,Wright, Mariners,0.4410857
+0,0,25, 25, 固有名詞, 16 ,Wright, Lovesick, Dario, Herrera, Gravity, Fallss, Get, It, John, Malkovic, Steve, Molyn, Neil, Jordan, Adam, Schecht,0.6235484
+0,0,26, 26, 固有名詞, 21 ,Steve, Molyneux, Neil, Jordan, Adam, Schecht, Steve, Molyneux, Michael, R, Farrell, Adam, Schecht, Steve, Molyneux, Nation, World, –, Canada, Mark, Re,0.9254275
+0,0,27, 27, 固有名詞, 16 ,Adam, Schecht, Steve, Molyneux, Nation, World, –, Canada, Mark, Regan, Canada, Broken, Arrowitive, Anthology, Matt, Breslin,0.4897635
+0,0,28, 28, 固有名詞, 2 ,Molyneux, G,0.40836734
+0,0,29, 29, 固有名詞, 1 ,Disneyland,0.88523424
+0,1,0, 30, 固有名詞, 7 ,Na, SBC, Shin, -, Etsu, Broadcasting, Sun,0.73411316
+0,1,1, 31, 固有名詞, 9 ,Na, SBC, Shin, -, Etsu, Broadcasting, Sun, Tachikawa, Numa,0.66121715
+0,1,2, 32, 固有名詞, 3 ,Sun, Tachikawa, Numa,0.81313765
+0,1,3, 33, 固有名詞, 0 ,,0.6975162
+0,1,4, 34, 固有名詞, 0 ,,0.9420896
+0,1,5, 35, 固有名詞, 0 ,,0.86374545
+0,1,6, 36, 固有名詞, 0 ,,0.8706709
+0,1,7, 37, 固有名詞, 0 ,,0.92269295
+0,1,8, 38, 固有名詞, 2 ,Judge, Jackson,0.89858264
+0,1,9, 39, 固有名詞, 8 ,Jackson, George, Washington, Post, George, A, ., Carlin,0.3990469
+0,1,10, 40, 固有名詞, 2 ,George, Blake,0.7658663
+0,1,11, 41, 固有名詞, 0 ,,0.8329822
+0,1,12, 42, 固有名詞, 1 ,Ruby,0.46926576
+0,1,13, 43, 固有名詞, 1 ,Ruby,0.7746158
+0,1,14, 44, 固有名詞, 0 ,,0.91689765
+0,0,0, 0, 固有名詞, 4 ,Children, and, Families, Agency,0.90961444
+0,0,1, 1, 固有名詞, 2 ,Arun, Jaitley,0.74354583
+0,0,0, 0, 固有名詞, 9 ,Noto, Peninsula, Reiwa, Noto, Peninsula, Hiroaki, Otake, Yuki, Sakuragi,0.9326022
+0,0,0, 0, 固有名詞, 6 ,Liberal, Democratic, Party, LDP, Nagasaki, Tokyo,0.9173697
+0,0,0, 0, 固有名詞, 6 ,Liberal, Democratic, Party, LDP, Nagasaki, Tokyo,0.9173697
+0,0,1, 1, 固有名詞, 2 ,Nagasaki, Tokyo,0.55618596
+0,0,2, 2, 固有名詞, 4 ,Nagasaki, Tokyo, Kuzouki, California,0.80262524
+0,0,3, 3, 固有名詞, 4 ,Kuzo, California, Americans, California,0.48291153
+0,0,4, 4, 固有名詞, 1 ,Kuzo,0.540369
+0,0,5, 5, 固有名詞, 0 ,,0.76226723
+0,0,6, 6, 固有名詞, 0 ,,0.77835023
+0,0,0, 0, 固有名詞, 6 ,Liberal, Democratic, Party, LDP, Nagasaki, Tokyo,0.9173697
+0,0,1, 1, 固有名詞, 2 ,Nagasaki, Tokyo,0.55618596
+0,0,2, 2, 固有名詞, 4 ,Nagasaki, Tokyo, Kuzouki, California,0.80262524
+0,0,3, 3, 固有名詞, 4 ,Kuzo, California, Americans, California,0.48291153
+0,0,0, 0, 固有名詞, 4 ,National, Democratic, Party, Tamaki,0.8067474
+0,0,1, 1, 固有名詞, 2 ,Friedman, Arab,0.93713117
+0,0,0, 0, 固有名詞, 1 ,Putin,0.7705922
+0,0,1, 1, 固有名詞, 7 ,of, a, Son, R, New, International, Version,0.86846656
+0,0,2, 2, 固有名詞, 3 ,Jesus, God, Christ,0.94887483
+0,0,3, 3, 固有名詞, 3 ,Jesus, God, Christ,0.45861095
+0,0,4, 4, 固有名詞, 19 ,Christa, Rio, 2016, International, Conference, on, the, Environment, International, Conference, on, Biological, Diversity, Hamburg, Germany, Czech, Republic, Philippines, Emma,0.8107374
+0,0,5, 5, 固有名詞, 28 ,Rio, 2016, International, Conference, on, the, Environment, International, Conference, on, Biological, Diversity, Hamburg, Germany, Czech, Republic, Philippines, Emma, Science, Biological, Diversity, University, of, California, Los, Angeles, Stanford, University,0.90812063
+0,0,6, 6, 固有名詞, 23 ,Czech, Republic, Philippines, Emma, Diversity, University, of, California, Los, Angeles, Stanford, University, University, of, South, Florida, Center, for, Genetics, and, Evolutionary, Biology, CREB,0.35309216
+0,0,0, 0, 固有名詞, 1 ,Putin,0.7705922
+0,0,1, 1, 固有名詞, 7 ,of, a, Son, R, New, International, Version,0.86846656
+0,0,2, 2, 固有名詞, 3 ,Jesus, God, Christ,0.94887483
+0,0,0, 0, 固有名詞, 1 ,Putin,0.7705922
+0,0,1, 1, 固有名詞, 7 ,of, a, Son, R, New, International, Version,0.86846656
+0,0,2, 2, 固有名詞, 3 ,Jesus, God, Christ,0.94887483
+0,0,0, 0, 固有名詞, 1 ,Putin,0.7705922
+0,0,1, 1, 固有名詞, 7 ,of, a, Son, R, New, International, Version,0.86846656
+0,0,2, 2, 固有名詞, 3 ,Jesus, God, Christ,0.94887483
+0,0,3, 3, 固有名詞, 3 ,Jesus, God, Christ,0.45861095
+0,0,4, 4, 固有名詞, 19 ,Christa, Rio, 2016, International, Conference, on, the, Environment, International, Conference, on, Biological, Diversity, Hamburg, Germany, Czech, Republic, Philippines, Emma,0.8107374
+0,0,5, 5, 固有名詞, 28 ,Rio, 2016, International, Conference, on, the, Environment, International, Conference, on, Biological, Diversity, Hamburg, Germany, Czech, Republic, Philippines, Emma, Science, Biological, Diversity, University, of, California, Los, Angeles, Stanford, University,0.90812063
+0,0,6, 6, 固有名詞, 23 ,Czech, Republic, Philippines, Emma, Diversity, University, of, California, Los, Angeles, Stanford, University, University, of, South, Florida, Center, for, Genetics, and, Evolutionary, Biology, CREB,0.35309216
+0,0,0, 0, 固有名詞, 15 ,Liberal, Democratic, Party, LDP, Toshihiro, Nikai, House, of, Representatives, Liberal, Democratic, Party, House, of, Representatives,0.94602215
+0,0,1, 1, 固有名詞, 5 ,Democratic, Party, House, of, Representatives,0.9397938
+0,0,2, 2, 固有名詞, 0 ,,0.8601005
+0,0,3, 3, 固有名詞, 2 ,Ravi, Shankar,0.6166848
+0,0,4, 4, 固有名詞, 2 ,Ravi, MLS,0.91393006
