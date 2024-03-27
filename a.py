@@ -23,8 +23,11 @@ mic = sr.Microphone()
 s11 = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 s11.bind((HOST, PORT))
 s11.listen(1)
-import openai
-openai.api_key =" Own Key"
+from openai import OpenAI
+
+#client = OpenAI(api_key="    -------Own Key------------------9")
+#openai.api_key ="      -----------        Own Key           ------------"
+
 import wikipedia as wiki
 import pprint as pp
 def speed(data,id,speedx):
@@ -107,7 +110,7 @@ while True:
         else:
             ij=0
 
-            response = openai.ChatCompletion.create( model='gpt-3.5-turbo',messages=[{ "role":"user","content":question}])
+            response = client.chat.completions.create(model='gpt-3.5-turbo',messages=[{ "role":"user","content":question}])
             text=response.choices[0].message.content
             print(' GPT  ====>',text)
             TP=1.40
