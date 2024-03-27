@@ -1,9 +1,6 @@
 # ai
-ICMLC 2024  Integrated Artificial Intelligence for Making Digital
+ICMLC 2024,  Integrated Artificial Intelligence for Making Digital
 Human II
-
-
-
 
 For install  
 
