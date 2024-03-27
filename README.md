@@ -1,5 +1,10 @@
 # ai
-ICMLC 2024  
+ICMLC 2024  Integrated Artificial Intelligence for Making Digital
+Human II
+
+
+
+
 For install  
 
 pip install -r requirements.txt
